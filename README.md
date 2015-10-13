@@ -1,4 +1,6 @@
 
+###[Data Elixir](http://dataelixir.com/)
+
 All posts till date from Data Elixir - One of the best resource for Data Science
 
 Please subscribe to [Data Elixir's](http://dataelixir.com/) free weekly newsletter of the best data-related news, resources, and inspirations from around the web - http://www.dataelixir.com and add a great tool in your armour.
@@ -14,7 +16,7 @@ You can follow Data Elixir at these sites:
 
 Scraped the website with the help of [rvest](https://cran.r-project.org/web/packages/rvest/rvest.pdf) package created by  [Hadley Wickham](https://twitter.com/hadleywickham)
 
-Summary of the data scraped:
+###Summary of the data scraped:
 
 Total Links: 535
 
