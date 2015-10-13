@@ -32,4 +32,17 @@ for (i in 1:56){
 
 # Removing all the blank rows from the data frame
 elixir <- all_posts_page[all_posts_page$cat != '',]
+# write.csv(elixir,'data_elixir_archive.csv',row.names=F)
+
+#Getting all the python links
+elixir$tag[grepl('python',x = elixir$desc,ignore.case = T)] <- 'python'
+elixir$tag[grepl(' R ',x = elixir$desc,ignore.case = T)] <- 'R'
+
+# Tagging articles whic are both python and R
+python_rows <- (grep('python',x = elixir$desc,ignore.case = T))
+r_rows <- (grep(' R ',x = elixir$desc,ignore.case = T))
+elixir$tag[r_rows[r_rows %in% python_rows]] <- 'R and Python'
+
+# Tagging all NA articles to Elixir
+elixir$tag[is.na(elixir$tag)] <- 'ELixir'
 write.csv(elixir,'data_elixir_archive.csv',row.names=F)
