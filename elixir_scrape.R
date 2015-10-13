@@ -45,4 +45,5 @@ elixir$tag[r_rows[r_rows %in% python_rows]] <- 'R and Python'
 
 # Tagging all NA articles to Elixir
 elixir$tag[is.na(elixir$tag)] <- 'ELixir'
+names(elixir)[] <- c('Category','Title','Description','Link','Week','Tag')
 write.csv(elixir,'data_elixir_archive.csv',row.names=F)

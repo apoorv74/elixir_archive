@@ -1,4 +1,4 @@
-"cat","item","desc","link","issue","tag"
+"Category","Title","Description","Link","Week","Tag"
 "news","What I Learned As Pandora’s First Data Scientist","Gordon Rios has been instrumental in building up a team of data scientists at Pandora.  In this interview, Rios offers his insights into what worked and what didn't as he built the team from just himself to over a dozen.  An interesting and important read for anyone interested in building a data science team.","http://cur.at/OP9hdZn?m=web","1","ELixir"
 "news","Why “Big Data” Is a Big Deal","The title says it all.  Here’s an in-depth overview from Harvard Magazine about the importance of Big Data, its uses, and where things are going.  This is a great read.","http://cur.at/ffahPlf?m=web","1","ELixir"
 "news","A Dating Site for Algorithms","A startup called Algorithmia has a new twist on online matchmaking. Its website connects businesses that have lots of data to researchers that have developed powerful but largely unknown algorithms.  This will be an interesting company to watch.","http://cur.at/TioA7GY?m=web","1","ELixir"
