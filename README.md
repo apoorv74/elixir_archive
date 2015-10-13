@@ -3,7 +3,7 @@
 
 All posts till date from Data Elixir - One of the best resource for Data Science
 
-Please subscribe to [Data Elixir's](http://dataelixir.com/) free weekly newsletter of the best data-related news, resources, and inspirations from around the web - http://www.dataelixir.com and add a great tool in your armour.
+Please subscribe to [Data Elixir's](http://dataelixir.com/) free weekly newsletter of the best data-related news, resources, and inspirations from around the web - http://www.dataelixir.com and add a great tool in your arsenal.
 
 I am a big fan of Data Elixir blogs and attribute a greater percentage of my learning to these posts. It contains the best interviews, blogs, techniques and visualisations every week and is a one good resource for learning Data Science.
 
